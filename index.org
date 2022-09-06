@@ -1,0 +1,8 @@
+#+title:    Ideal Carnival
+#+author:   NrdyBhu1
+#+date:     2022-09-06
+
+* Index
+What is this?
+    - A simple game-like story written in org mode
+        - choose your own ending
